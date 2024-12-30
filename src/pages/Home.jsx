@@ -31,7 +31,7 @@ const Home = () => {
       {/* Hero Section with Animation */}
       <section className="bg-gradient-to-r from-indigo-600 to-indigo-800 text-white py-16 text-center" data-aos="fade-up">
         <h1 className="text-4xl font-extrabold mb-4">Welcome to My Blog</h1>
-        <p className="text-xl mb-8">Sharing my knowledge and experiences on web development, programming, and more!</p>
+        <p className="text-xl mb-8">Sharing my knowledge and experiences on Competitive programming, CSE Core Topics and more!</p>
         <a href="#featured" className="bg-yellow-400 text-gray-800 py-2 px-6 rounded-full font-semibold hover:bg-yellow-500 transition duration-300" data-aos="zoom-in">Explore Posts</a>
       </section>
       
